@@ -9,8 +9,8 @@
 ## 🔧 Tech Stack
 - Programming: **Python, C++, C**
 - Libraries: **NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn**
-- ML Focus: **Supervised & Unsupervised Learning, Data Preprocessing**
-- Tools: **Jupyter Notebook, Git/GitHub, VS Code**
+- ML Focus: **Supervised Data Preprocessing**
+- Tools: **Jupyter Notebook, Git/GitHub,Google colab,  VS Code**
 
 ---
 
