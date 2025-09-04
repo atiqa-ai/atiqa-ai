@@ -1,4 +1,4 @@
-Atiqa  
+# Atiqa  
 
 🌱 **BS Computer Science Student** | 🎯 Aspiring **Machine Learning Engineer**  
 💻 Skilled in **Python, C++, C** | Currently exploring **ML, AI & Data Science**  
