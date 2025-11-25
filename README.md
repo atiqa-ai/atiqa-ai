@@ -17,7 +17,8 @@
 ## 📂 Featured Projects
 - 🏡 **Boston Housing Price Prediction** – Linear Regression on Kaggle dataset  
 - ✉️ **Spam Detection with SVM** – Text classification using NLP techniques  
-
+-   **Spam Email classifier streamlit web**  
+-  
 (👉 More projects coming soon...)
 
 ---
