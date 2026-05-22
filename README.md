@@ -1,7 +1,7 @@
 # Atiqa  
 
-🌱 **BS Computer Science Student** | 🎯 Aspiring **Machine Learning Engineer**  
-💻 Skilled in **Python, C++, C** | Currently exploring **ML, AI & Data Science**  
+🌱 **BS Computer Science Student** | 🎯 Aspiring **DevOps Engineer & Machine learning**  
+💻 Skilled in **Linux, Networking, CI/CD pipelines, AWS, Containerization, Python, C++** | Currently exploring **AWS Cloud computing**  
 ⚡ Passionate about building projects that solve real-world problems.  
 
 ---
