@@ -7,10 +7,11 @@
 ---
 
 ## 🔧 Tech Stack
-- Programming: **Python, C++, C**
+**DevOps, Linux, Networking, CI/CD pipelines, Docker, AWS & cloud computing**
+- Programming: **Python, C++, C, HTML,CSS, JS, Machine learning**
 - Libraries: **NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn**
-- ML Focus: **Supervised Data Preprocessing**
-- Tools: **Jupyter Notebook, Git/GitHub,Google colab,  VS Code**
+- ML Focus: **Supervised learning**
+
 
 ---
 
