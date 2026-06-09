@@ -1,50 +1,65 @@
-# Atiqa  
+  
 
-🌱 **BS Computer Science Student** | 🎯 Aspiring **DevOps Engineer & Machine learning**  
-💻 Skilled in **Linux, Networking, CI/CD pipelines, AWS, Containerization, Python, C++** | Currently exploring **AWS Cloud computing**  
-⚡ Passionate about building projects that solve real-world problems.  
+ I'm  **Atiqa**
+🚀 DevOps & MLOps Enthusiast | 🌱 BS Computer Science Student
+I am a passionate engineer bridging the gap between Development, Operations, and AI. My focus is on automating workflows, containerizing applications, and building scalable infrastructure on AWS.
 
----
+Currently, I am building robust CI/CD pipelines and Dockerizing Python/ML applications to streamline software delivery.
 
-## 🔧 Tech Stack
-**DevOps, Linux, Networking, CI/CD pipelines, Docker, AWS & cloud computing**
-- Programming: **Python, C++, C, HTML,CSS, JS, Machine learning**
-- Libraries: **NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn**
-- ML Focus: **Supervised learning**
+### 🔧 Tech Stack & Tools
 
+### ☁️ Cloud & Infrastructure:
 
----
+**AWS**
 
-## 📂 Featured Projects
-- 🏡 **Boston Housing Price Prediction** – Linear Regression on Kaggle dataset  
-- ✉️ **Spam Detection with SVM** – Text classification using NLP techniques  
--   **Spam Email classifier streamlit web**  
--  
-(👉 More projects coming soon...)
+**Terraform**
 
----
+### 🐳 Containers & CI/CD:
+
+**Docker**
+
+**CI/CD**
+
+### 🖥️ Operating Systems & Networking:
+
+**Linux**
+
+**Networking**
+
+### Programming & Scripting:
+
+Python
+
+Bash
+
+C++
+
+### 🐍 Languages:PythonBashC++
+
+🤖 AI/ML Stack:Scikit-LearnPandasNumPy
+
+### 📂 Featured Projects
+🔧 DevOps & Automation
+Focusing on Containerization & Continuous Integration
+
+### 🐳 Dockerized Python Application
+
+Containerized a Python web application using Docker to ensure consistent environments across development and production.
+Tech: Python, Docker, Linux.
+
+###  ⚡ Automated CI/CD Pipeline
+
+Built a fully automated CI/CD pipeline that tests and deploys code upon commit, reducing manual intervention.
+Tech: AWS, GitHub Actions/Jenkins, Docker.
+
+### 📈 What I'm currently learning
+Infrastructure as Code (IaC): Terraform
+Orchestration: Kubernetes
+MLOps: Automating ML model retraining pipelines.
 
 ## 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/atiqa-mushtaq)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/atiqa-mushtaq?utm_source=share_via&utm_content=profile&utm_medium=member_ios)  
 - 📧 Email: **catiqa23@gmail.com**  
-- 🐙 GitHub: [atiqa-ai](https://github.com/atiqa-ai)  
-
----
 
 ⭐ *“Learning never stops, and every project is a step forward.”*
 
-
-<!--
-**atiqa-ai/atiqa-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
