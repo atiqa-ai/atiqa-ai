@@ -37,7 +37,7 @@ Currently engineering automated CI/CD workflows and containerizing applications 
 
 ### 🤖 AI/ML Stack:
 
--ML 
+- ML 
 
 - Scikit-Learn 
 
