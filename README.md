@@ -5,7 +5,7 @@
  DevOps & MLOps Enthusiast | 🌱 BS Computer Science Student
 I am a passionate engineer bridging the gap between Development, Operations, and AI. My focus is on automating workflows, containerizing applications, and building scalable infrastructure on AWS.
 
-Currently, I am building robust CI/CD pipelines and Dockerizing Python/ML applications to streamline software delivery.
+Currently engineering automated CI/CD workflows and containerizing applications with Docker, while leveraging Terraform to accelerate scalable cloud deployments.
 
 ### 🔧 Tech Stack & Tools
 
