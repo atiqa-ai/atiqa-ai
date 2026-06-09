@@ -35,9 +35,15 @@ Currently engineering automated CI/CD workflows and containerizing applications 
 
 - C++
 
-### 🐍 Languages:PythonBashC++
+### 🤖 AI/ML Stack:
 
-🤖 AI/ML Stack:Scikit-LearnPandasNumPy
+-ML 
+
+- Scikit-Learn 
+
+- Pandas
+
+- NumPy
 
 ### 📂 Featured Projects
 🔧 DevOps & Automation
