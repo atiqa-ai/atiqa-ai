@@ -59,6 +59,8 @@ Tech: Python, Docker, Linux.
 Built a fully automated CI/CD pipeline that tests and deploys code upon commit, reducing manual intervention.
 Tech: AWS, GitHub Actions/Jenkins, Docker.
 
+### Bash Scripting 
+task automation using python scripts to manage user accounts creation, permissions assignment, accounts deletion .
 
 ### 📈 What I'm currently learning
 
