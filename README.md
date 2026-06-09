@@ -10,21 +10,21 @@ Currently, I am building robust CI/CD pipelines and Dockerizing Python/ML applic
 
 ### ☁️ Cloud & Infrastructure:
 
-**-AWS**
+- **AWS**
 
-**-Terraform**
+- **Terraform**
 
 ### 🐳 Containers & CI/CD:
 
-**-Docker**
+- **Docker**
 
-**-CI/CD**
+- **CI/CD**
 
 ### 🖥️ Operating Systems & Networking:
 
-**-Linux**
+- **Linux**
 
-**-Networking**
+- **Networking**
 
 ### Programming & Scripting:
 
@@ -56,7 +56,9 @@ Tech: AWS, GitHub Actions/Jenkins, Docker.
 ### 📈 What I'm currently learning
 
 - **Infrastructure as Code (IaC): Terraform**
+
 - **Orchestration: Kubernetes**
+
 - **MLOps: Automating ML model retraining pipelines.**
 
 ## 🌐 Connect with Me
