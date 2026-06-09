@@ -10,29 +10,29 @@ Currently, I am building robust CI/CD pipelines and Dockerizing Python/ML applic
 
 ### ☁️ Cloud & Infrastructure:
 
-**AWS**
+**-AWS**
 
-**Terraform**
+**-Terraform**
 
 ### 🐳 Containers & CI/CD:
 
-**Docker**
+**-Docker**
 
-**CI/CD**
+**-CI/CD**
 
 ### 🖥️ Operating Systems & Networking:
 
-**Linux**
+**-Linux**
 
-**Networking**
+**-Networking**
 
 ### Programming & Scripting:
 
-Python
+- Python
 
-Bash
+- Bash
 
-C++
+- C++
 
 ### 🐍 Languages:PythonBashC++
 
@@ -42,23 +42,27 @@ C++
 🔧 DevOps & Automation
 Focusing on Containerization & Continuous Integration
 
-### 🐳 Dockerized Python Application
+- ### 🐳 Dockerized Python Application
 
 Containerized a Python web application using Docker to ensure consistent environments across development and production.
 Tech: Python, Docker, Linux.
 
-###  ⚡ Automated CI/CD Pipeline
+- ###  ⚡ Automated CI/CD Pipeline
 
 Built a fully automated CI/CD pipeline that tests and deploys code upon commit, reducing manual intervention.
 Tech: AWS, GitHub Actions/Jenkins, Docker.
 
+
 ### 📈 What I'm currently learning
-Infrastructure as Code (IaC): Terraform
-Orchestration: Kubernetes
-MLOps: Automating ML model retraining pipelines.
+
+- **Infrastructure as Code (IaC): Terraform**
+- **Orchestration: Kubernetes**
+- **MLOps: Automating ML model retraining pipelines.**
 
 ## 🌐 Connect with Me
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/atiqa-mushtaq?utm_source=share_via&utm_content=profile&utm_medium=member_ios)  
+
 - 📧 Email: **catiqa23@gmail.com**  
 
 ⭐ *“Learning never stops, and every project is a step forward.”*
