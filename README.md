@@ -15,11 +15,22 @@ Currently engineering automated CI/CD workflows and containerizing applications 
 
 - **Terraform**
 
+###  Monitoring & Logs
+
+- **Grafana**
+  
+- **Loki**
+
+- **Prometheus**
+
+
 ### 🐳 Containers & CI/CD:
 
 - **Docker**
 
 - **CI/CD**
+
+- **Nomad**
 
 ### 🖥️ Operating Systems & Networking:
 
