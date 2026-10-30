@@ -39,7 +39,6 @@ Every project here started the same way: something worked on my machine, so I as
 |---|---|
 | **01 · Scripts** | Started with **Bash on Linux** — automating user and permission management instead of clicking through it. |
 | **02 · Python & ML** | Built classifiers and regressors (spam detection, MNIST, house prices) and learned that an honest metric beats a flattering one. |
-| **03 · Tests & CI** | Gave Python projects a test suite and a GitHub Actions pipeline that runs on each push — up to **71 tests** in one repo. |
 | **04 · Containers** | Packaged apps as Docker images, then wrote pipelines that boot the container and *test the running service* before publishing. |
 | **05 · Observability** | Added health endpoints, Prometheus metrics, and Loki/Promtail log shipping so failures are visible, not guessed at. |
 | **06 · What's next** | Infrastructure as Code with **Terraform**, plus security scanning with **Trivy** and **Gitleaks**. |
@@ -141,7 +140,7 @@ On every push it builds the image, then runs a genuine integration test — crea
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
 
 ### 📦 Containers & CI/CD
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📈 Monitoring & Logs
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge) ![Promtail](https://img.shields.io/badge/Promtail-F46800?style=for-the-badge)
@@ -150,13 +149,11 @@ On every push it builds the image, then runs a genuine integration test — crea
 ![Nomad](https://img.shields.io/badge/Nomad-00CA8E?style=for-the-badge&logo=nomad&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Networking](https://img.shields.io/badge/Networking-4B5563?style=for-the-badge)
 
 ### 💻 Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 🤖 AI / ML
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge) ![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge)
 
-### 🧪 Testing
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white) ![CI Integration Tests](https://img.shields.io/badge/Integration%20Tests%20in%20CI-2EA043?style=for-the-badge) ![Healthchecks](https://img.shields.io/badge/Container%20Healthchecks-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 📚 Currently Learning
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white) ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge) ![Gitleaks](https://img.shields.io/badge/Gitleaks-DF3079?style=for-the-badge)
