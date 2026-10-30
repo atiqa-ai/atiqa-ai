@@ -8,7 +8,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-atiqa--mushtaq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atiqa-mushtaq?utm_source=share_via&utm_content=profile&utm_medium=member_ios) [![GitHub](https://img.shields.io/badge/GITHUB-atiqa--ai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atiqa-ai) [![Email](https://img.shields.io/badge/EMAIL-catiqa23%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:catiqa23@gmail.com) ![Profile Views](https://komarev.com/ghpvc/?username=atiqa-ai&label=PROFILE%20VIEWS&color=7209b7&style=for-the-badge) ![Open to](https://img.shields.io/badge/OPEN%20TO-DevOps%20%C2%B7%20Cloud%20Internships-2EA043?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-atiqa--mushtaq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atiqa-mushtaq?utm_source=share_via&utm_content=profile&utm_medium=member_ios) [![GitHub](https://img.shields.io/badge/GITHUB-atiqa--ai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atiqa-ai) [![Email](https://img.shields.io/badge/EMAIL-catiqa23%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:catiqa23@gmail.com) ![Profile Views](https://komarev.com/ghpvc/?username=atiqa-ai&label=PROFILE%20VIEWS&color=7209b7&style=for-the-badge) ![Open to](https://img.shields.io/badge/OPEN%20TO-DevOps%20%C2%B7%20Cloud%20Engineer%20Roles-2EA043?style=for-the-badge)
 
 </div>
 
