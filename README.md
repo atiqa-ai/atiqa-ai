@@ -176,21 +176,39 @@ On every push it builds the image, then runs a genuine integration test — crea
 
 <div align="center">
 
-[![Stars on my repos](https://img.shields.io/badge/⭐%20Stars%20on%20My%20Repos-16-F7C948?style=for-the-badge&labelColor=24292e)](https://github.com/atiqa-ai?tab=repositories) [![Starred Repos](https://img.shields.io/badge/🌟%20Browse%20My%20Starred%20Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atiqa-ai?tab=stars)
-
-<br/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atiqa-ai&theme=tokyonight" alt="GitHub profile details" width="49%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atiqa-ai&theme=tokyonight" alt="Top languages" width="49%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atiqa-ai&theme=tokyonight" alt="Repos per language" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atiqa-ai&theme=tokyonight" alt="Repos per language" width="49%"/>
 
 <img src="https://ghchart.rshah.org/7209b7/atiqa-ai" alt="Contribution graph" width="100%"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=atiqa-ai&show_icons=true&theme=tokyonight&hide_border=true&hide=stars&include_all_commits=true" alt="GitHub stats"/>
+</div>
+
+---
+
+## ⭐ Starred Repositories
+
+<div align="center">
+
+[![Stars](https://img.shields.io/badge/Stars%20on%20My%20Repos-16-F7C948?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e)](https://github.com/atiqa-ai?tab=repositories) [![Starred](https://img.shields.io/badge/View%20All%20Starred-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atiqa-ai?tab=stars)
 
 </div>
---
+
+| # | Repository | What it is |
+|:---:|---|---|
+| 1 | ⭐ [soul-of-lahore-containerization-monitoring](https://github.com/atiqa-ai/soul-of-lahore-containerization-monitoring) | Next.js 14 app in a hardened Docker image with health checks |
+| 2 | ⭐ [devops-intern-final](https://github.com/atiqa-ai/devops-intern-final) | Docker, GitHub Actions, Prometheus, Loki and Nomad together |
+| 3 | ⭐ [CI-CD-Pipelines-and-Dockerization](https://github.com/atiqa-ai/CI-CD-Pipelines-and-Dockerization) | Build, integration test with Redis, push to Docker Hub |
+| 4 | ⭐ [ai-speech-subtitles](https://github.com/atiqa-ai/ai-speech-subtitles) | Lecture audio to Urdu subtitles with Whisper |
+| 5 | ⭐ [spam-classifier](https://github.com/atiqa-ai/spam-classifier) | SMS spam classifier with a Streamlit UI |
+| 6 | ⭐ [voice-assistant](https://github.com/atiqa-ai/voice-assistant) | Python voice assistant with a 71-test suite |
+| 7 | ⭐ [geolocation-system](https://github.com/atiqa-ai/geolocation-system) | IP address to location and an interactive Folium map |
+| 8 | ⭐ [california-housing-regression](https://github.com/atiqa-ai/california-housing-regression) | Linear-regression study with reproducible outputs |
+| 9 | ⭐ [ML-Projects](https://github.com/atiqa-ai/ML-Projects) | Notebooks: spam, MNIST and house-price models |
+| 10 | ⭐ [Bash-Scripting](https://github.com/atiqa-ai/Bash-Scripting) | Bash automation for Linux users and permissions |
+
+---
 
 ## 🤝 Let's Build Something Reliable
 
