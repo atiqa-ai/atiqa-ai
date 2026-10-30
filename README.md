@@ -39,9 +39,9 @@ Every project here started the same way: something worked on my machine, so I as
 |---|---|
 | **01 · Scripts** | Started with **Bash on Linux** — automating user and permission management instead of clicking through it. |
 | **02 · Python & ML** | Built classifiers and regressors (spam detection, MNIST, house prices) and learned that an honest metric beats a flattering one. |
-| **04 · Containers** | Packaged apps as Docker images, then wrote pipelines that boot the container and *test the running service* before publishing. |
-| **05 · Observability** | Added health endpoints, Prometheus metrics, and Loki/Promtail log shipping so failures are visible, not guessed at. |
-| **06 · What's next** | Infrastructure as Code with **Terraform**, plus security scanning with **Trivy** and **Gitleaks**. |
+| **03 · Containers** | Packaged apps as Docker images, then wrote pipelines that boot the container and *test the running service* before publishing. |
+| **04 · Observability** | Added health endpoints, Prometheus metrics, and Loki/Promtail log shipping so failures are visible, not guessed at. |
+| **05 · What's next** | Infrastructure as Code with **Terraform**, plus security scanning with **Trivy** and **Gitleaks**. |
 
 ---
 
