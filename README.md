@@ -47,14 +47,16 @@ Every project here started the same way: something worked on my machine, so I as
 
 ## 🚦 Every Push Goes Through This
 
-| Stage | What happens | Tools |
-|:---:|---|---|
-| **1 · Commit** | Code is pushed to GitHub and the workflow starts automatically | `Git` `GitHub Actions` |
-| **2 · Test** | Dependencies are installed and the test suite runs | `Python` `pytest` |
-| **3 · Build** | The app is packaged as a Docker image | `Docker` `Docker Compose` |
-| **4 · Verify** | The container is started and the running service is checked, including Redis integration, health endpoints and `/metrics` | `Redis` `curl` `Prometheus` |
-| **5 · Publish** | The image is pushed to Docker Hub, but only if every earlier stage passed | `Docker Hub` |
-| **6 · Observe** | Metrics, logs and dashboards show how the service behaves | `Prometheus` `Loki` `Promtail` `Grafana` |
+```mermaid
+flowchart LR
+    A([📤 Push to GitHub]) --> B[🧪 Run Tests]
+    B --> C[🐳 Build Docker Image]
+    C --> D[✅ Verify Running Container]
+    D --> E{All checks pass?}
+    E -- Yes --> F[📦 Push to Docker Hub]
+    E -- No --> G[❌ Stop the Build]
+    F --> H([📈 Monitor with Prometheus, Loki and Grafana])
+```
 
 > **My rule:** if a stage fails, nothing ships.
 
