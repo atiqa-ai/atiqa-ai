@@ -187,6 +187,8 @@ On every push it builds the image, then runs a genuine integration test — crea
 
 <img src="https://ghchart.rshah.org/7209b7/atiqa-ai" alt="Contribution graph" width="100%"/>
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=atiqa-ai&show_icons=true&theme=tokyonight&hide_border=true&hide=stars&include_all_commits=true" alt="GitHub stats"/>
+
 </div>
 --
 
