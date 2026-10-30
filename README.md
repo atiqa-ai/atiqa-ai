@@ -176,6 +176,10 @@ On every push it builds the image, then runs a genuine integration test — crea
 
 <div align="center">
 
+[![Stars on my repos](https://img.shields.io/badge/⭐%20Stars%20on%20My%20Repos-16-F7C948?style=for-the-badge&labelColor=24292e)](https://github.com/atiqa-ai?tab=repositories) [![Starred Repos](https://img.shields.io/badge/🌟%20Browse%20My%20Starred%20Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atiqa-ai?tab=stars)
+
+<br/>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atiqa-ai&theme=tokyonight" alt="GitHub profile details" width="49%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atiqa-ai&theme=tokyonight" alt="Top languages" width="49%"/>
 
