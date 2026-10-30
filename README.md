@@ -27,7 +27,7 @@
 | **ML** | scikit-learn · Pandas · NumPy · PyTorch · Streamlit apps |
 | **Now learning** | Terraform (IaC) · Trivy · Gitleaks |
 | **Philosophy** | A pipeline is only real if it *tests* the thing it ships |
-| **Open to** | DevOps / Cloud Engineer roles |
+| **Open to** | DevOps & Cloud Engineer roles |
 
 ---
 
