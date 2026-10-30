@@ -183,14 +183,12 @@ On every push it builds the image, then runs a genuine integration test — crea
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atiqa-ai&theme=tokyonight" alt="GitHub profile details" width="49%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atiqa-ai&theme=tokyonight" alt="Top languages" width="49%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atiqa-ai&theme=tokyonight" alt="Repos per language" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atiqa-ai&theme=tokyonight" alt="GitHub stats" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atiqa-ai&theme=tokyonight" alt="Repos per language" width="100%"/>
 
 <img src="https://ghchart.rshah.org/7209b7/atiqa-ai" alt="Contribution graph" width="100%"/>
 
 </div>
-
----
+--
 
 ## 🤝 Let's Build Something Reliable
 
