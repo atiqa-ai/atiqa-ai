@@ -16,7 +16,7 @@
 
 ---
 
-## 🔭 At a Glance
+## 🪪 About Me in a Nutshell
 
 | | |
 |---|---|
@@ -31,7 +31,7 @@
 
 ---
 
-## 📖 The Story So Far
+## 🧱 Building Blocks: My Path in Tech
 
 Every project here started the same way: something worked on my machine, so I asked *"how do I prove it works anywhere — and keep proving it?"*
 
@@ -45,29 +45,18 @@ Every project here started the same way: something worked on my machine, so I as
 
 ---
 
-## 🚀 The Pipeline I Ship With
+## 🚦 Every Push Goes Through This
 
-```mermaid
-flowchart LR
-    A[git push] --> B[Install + unit tests]
-    B --> C[Build Docker image]
-    C --> D[Integration test<br/>app + Redis on a network]
-    D --> E{Healthy?}
-    E -- yes --> F[Push to Docker Hub]
-    E -- no --> G[Fail the build]
-    F --> H[Run with Compose / Nomad]
-    H --> I[Prometheus · Loki · Grafana]
-```
+| Stage | What happens | Tools |
+|:---:|---|---|
+| **1 · Commit** | Code is pushed to GitHub and the workflow starts automatically | `Git` `GitHub Actions` |
+| **2 · Test** | Dependencies are installed and the test suite runs | `Python` `pytest` |
+| **3 · Build** | The app is packaged as a Docker image | `Docker` `Docker Compose` |
+| **4 · Verify** | The container is started and the running service is checked, including Redis integration, health endpoints and `/metrics` | `Redis` `curl` `Prometheus` |
+| **5 · Publish** | The image is pushed to Docker Hub, but only if every earlier stage passed | `Docker Hub` |
+| **6 · Observe** | Metrics, logs and dashboards show how the service behaves | `Prometheus` `Loki` `Promtail` `Grafana` |
 
-```bash
-# my-working-rules
-$ test every change        # pytest on every push
-$ build once, run anywhere # Docker, multi-stage images
-$ prove it's alive         # health + /metrics checks in CI
-$ make it visible          # metrics, logs, dashboards
-```
-
----
+> **My rule:** if a stage fails, nothing ships.
 
 ## ⭐ Featured Work
 
