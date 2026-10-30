@@ -1,14 +1,14 @@
 <!-- Profile README for github.com/atiqa-ai — place this file at the root of the repo atiqa-ai/atiqa-ai -->
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=240&color=0:3a0ca3,50:7209b7,100:f72585&text=Atiqa%20Mushtaq&fontColor=ffffff&fontSize=54&fontAlign=50&fontAlignY=40&desc=DevOps%20%26%20MLOps%20%C2%B7%20Cloud%20Computing%20%C2%B7%20CI%2FCD%20%C2%B7%20Observability&descSize=18&descAlign=50&descAlignY=62&stroke=ffffff&strokeWidth=1" alt="Atiqa Mushtaq banner" width="100%"/>
-
 <div align="center">
 
-<a href="https://github.com/atiqa-ai"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=F72585&center=true&vCenter=true&width=700&lines=DevOps+%26+MLOps+Enthusiast;BS+Computer+Science+Student;Automating+workflows+%C2%B7+Containerizing+applications" alt="Typing SVG"/></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:3a0ca3,50:7209b7,100:f72585&text=Atiqa%20Mushtaq&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=DevOps%20and%20Cloud%20Computing&descSize=22&descAlignY=58&animation=fadeIn" alt="Atiqa Mushtaq - DevOps and Cloud Computing" width="100%"/>
+
+<a href="https://github.com/atiqa-ai"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=F72585&center=true&vCenter=true&width=700&lines=DevOps+Enthusiast;Cloud+Computing;BS+Computer+Science+Student;Automating+workflows+and+containerizing+applications" alt="Typing SVG"/></a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-atiqa--mushtaq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atiqa-mushtaq?utm_source=share_via&utm_content=profile&utm_medium=member_ios) [![GitHub](https://img.shields.io/badge/GITHUB-atiqa--ai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atiqa-ai) [![Email](https://img.shields.io/badge/EMAIL-catiqa23%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:catiqa23@gmail.com) ![Profile Views](https://komarev.com/ghpvc/?username=atiqa-ai&label=PROFILE%20VIEWS&color=7209b7&style=for-the-badge) ![Open to](https://img.shields.io/badge/OPEN%20TO-DevOps%20%C2%B7%20MLOps%20%C2%B7%20Cloud%20Internships-2EA043?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-atiqa--mushtaq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atiqa-mushtaq?utm_source=share_via&utm_content=profile&utm_medium=member_ios) [![GitHub](https://img.shields.io/badge/GITHUB-atiqa--ai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atiqa-ai) [![Email](https://img.shields.io/badge/EMAIL-catiqa23%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:catiqa23@gmail.com) ![Profile Views](https://komarev.com/ghpvc/?username=atiqa-ai&label=PROFILE%20VIEWS&color=7209b7&style=for-the-badge) ![Open to](https://img.shields.io/badge/OPEN%20TO-DevOps%20%C2%B7%20Cloud%20Internships-2EA043?style=for-the-badge)
 
 </div>
 
@@ -20,13 +20,14 @@
 
 | | |
 |---|---|
-| **Role** | DevOps & MLOps Enthusiast · 🎓 BS Computer Science Student |
+| **Role** | DevOps Enthusiast · 🎓 BS Computer Science Student |
 | **Foundation** | Linux · Bash · Python · Git & GitHub Actions |
 | **Focus** | CI/CD pipelines, Docker containerization, observability (Prometheus · Loki · Grafana) |
+| **Cloud** | AWS · Azure (basics) |
 | **ML** | scikit-learn · Pandas · NumPy · PyTorch · Streamlit apps |
 | **Now learning** | Terraform (IaC) · Trivy · Gitleaks |
 | **Philosophy** | A pipeline is only real if it *tests* the thing it ships |
-| **Open to** | DevOps / MLOps / Cloud internships |
+| **Open to** | DevOps / Cloud internships |
 
 ---
 
@@ -136,7 +137,10 @@ On every push it builds the image, then runs a genuine integration test — crea
 
 ## 🛠️ Tech Arsenal
 
-### ☁️ Containers & CI/CD
+### ☁️ Cloud Computing (Basics)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
+
+### 📦 Containers & CI/CD
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 📈 Monitoring & Logs
@@ -164,7 +168,7 @@ On every push it builds the image, then runs a genuine integration test — crea
 <table align="center">
 <tr>
 <td align="center" width="25%"><h3>⚙️ DevOps</h3>CI/CD pipelines that build, test, and publish Docker images automatically.</td>
-<td align="center" width="25%"><h3>🧠 MLOps</h3>Tested, containerized ML apps, combined with cloud computing.</td>
+<td align="center" width="25%"><h3>☁️ Cloud Computing</h3>Working knowledge of AWS and Azure basics.</td>
 <td align="center" width="25%"><h3>🔭 Observability</h3>Health checks, Prometheus metrics, and Loki log shipping.</td>
 <td align="center" width="25%"><h3>🐧 Linux & Automation</h3>Bash and Python scripts that replace repetitive manual work.</td>
 </tr>
@@ -184,12 +188,13 @@ On every push it builds the image, then runs a genuine integration test — crea
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=atiqa-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atiqa-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atiqa-ai&theme=tokyonight" alt="GitHub profile details" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atiqa-ai&theme=tokyonight" alt="Top languages" width="49%"/>
 
-<img src="https://streak-stats.demolab.com?user=atiqa-ai&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atiqa-ai&theme=tokyonight" alt="Repos per language" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atiqa-ai&theme=tokyonight" alt="GitHub stats" width="49%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atiqa-ai&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution graph" width="100%"/>
+<img src="https://ghchart.rshah.org/7209b7/atiqa-ai" alt="Contribution graph" width="100%"/>
 
 </div>
 
@@ -197,7 +202,7 @@ On every push it builds the image, then runs a genuine integration test — crea
 
 ## 🤝 Let's Build Something Reliable
 
-I'm looking for **DevOps, MLOps and Cloud** opportunities where I can ship, test, and observe real systems.
+I'm looking for **DevOps and Cloud** opportunities where I can ship, test, and observe real systems.
 
 <div align="center">
 
@@ -205,6 +210,6 @@ I'm looking for **DevOps, MLOps and Cloud** opportunities where I can ship, test
 
 *💭 "Learning never stops, and every project is a step forward."*
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=100&color=0:f72585,50:7209b7,100:3a0ca3&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:f72585,50:7209b7,100:3a0ca3&section=footer" width="100%" alt="footer"/>
 
 </div>
